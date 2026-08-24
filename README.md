@@ -4,7 +4,7 @@
 * 🕹 [My STEAM profile](https://steamcommunity.com/profiles/76561197987715119)
 * ✉ hello(at)sp4ce.dev
 
-#html #css #typescript  
+#html #css #javascript  
 #vuejs #nuxt #tailwindcss  
 #django #python #affinity 
 
