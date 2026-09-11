@@ -2,7 +2,6 @@
 * 📷 [My few photographs](https://photo.sp4ce.dev)
 * 💾 [saveIN](https://addons.mozilla.org/en-US/firefox/addon/savein/) *a **Mozilla Firefox** add-on*
 * 🕹 [My STEAM profile](https://steamcommunity.com/profiles/76561197987715119)
-* ✉ hello(at)sp4ce.dev
 
 #html #css #javascript  
 #vuejs #nuxt #tailwindcss  
